@@ -5,3 +5,5 @@ Features :
 2. Filter notes according to color
 3. Change priority(color) of notes
 4. Lock/Update notes
+
+Link: https://akashtiw43.github.io/pinned_notes/
