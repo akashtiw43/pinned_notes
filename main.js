@@ -80,7 +80,7 @@ remove.addEventListener("click",(e)=>{
 })
 textArea.addEventListener("keydown",(e)=>{
     const myKey=e.key;
-    if(myKey=="Control"){
+    if(myKey=="Shift"){
         createTicket(modalPriorityColor,textArea.value);
         modal.style.display="none";
         flag=false;
